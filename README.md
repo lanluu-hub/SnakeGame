@@ -21,7 +21,7 @@ SnakeGame is a classic console-based Snake game implemented in C++. Inspired by 
 1. Clone your GitHub repo:
 
 ```bash
-git clone https://github.com/your-username/SnakeGame.git
+git clone https://github.com/lanluu-hub/SnakeGame.git
 ```
 
 
